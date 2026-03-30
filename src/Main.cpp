@@ -2,6 +2,6 @@
 
 
 int main(void){
-    std::cout<<"Hello World"<<std::endl;
+    std::cout<<"Created a Project with CMake and executed successfully"<<std::endl;
     return 0;
 }
